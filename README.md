@@ -2,6 +2,8 @@
 
 This repository contains the implementation and documentation of a transfer learning on EMG data, as part of my Master's Thesis.
 
+![Local Image](https://github.com/pfagurel/Transfer-Learning-on-Electrophysiological-data-thesis/blob/main/Problem_illustration.png)
+
 _"Gesture estimation in the inter-subject setting is hard to solve because the electrophysiological signals vary significantly between different subjects. This can be due to differences in muscle structure, movement patterns, skin conductivity, and other physiological factors. This high degree of variability makes it challenging for a model to generalize its predictions to new, unseen subjects._
  
 _To tackle this problem we would want to take advantage of the previously acquired training "knowledge". The field of machine learning tackling this problem is called Transfer Learning."_
