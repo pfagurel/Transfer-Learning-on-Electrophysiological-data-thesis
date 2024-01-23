@@ -1,4 +1,4 @@
-# Transfer Learning on Electrophysiological data : Master's Thesis
+# Master's Thesis: Transfer Learning on Electrophysiological data 
 
 This repository contains the implementation and documentation of a transfer learning on EMG data, as part of my Master's Thesis.
 
