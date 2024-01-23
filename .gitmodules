@@ -1,0 +1,3 @@
+[submodule "ProgressiveNeuralNetwork"]
+	path = ProgressiveNeuralNetwork
+	url = https://github.com/pfagurel/ProgressiveNeuralNetwork

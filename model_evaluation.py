@@ -16,7 +16,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.ensemble import RandomForestClassifier, HistGradientBoostingClassifier
 from sklearn import svm
 
-from PNN import ProgressiveNeuralNetwork
+from ProgressiveNeuralNetwork.PNN import ProgressiveNeuralNetwork
 
 import time
 import numpy as np
